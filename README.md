@@ -1,4 +1,4 @@
-# Brawl Stars v37
+# Brawl Stars v39
 
 Experimental Brawl Stars v39.99 server emulator written in Python.
 
